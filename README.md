@@ -1,5 +1,7 @@
 # FreezeMonke
 im FREEZING cols
+
+guys what if ghost monke WASNT by cheaters?
 # How to use
 X is Freeze
 # Requirments
