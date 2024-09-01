@@ -12,7 +12,7 @@ namespace QuickDisconnectBananaOS
 {
     internal class WatchMenu:WatchPage
     {
-        public override string Title => "<color=cyan>Freeze</color><color=blue>Monke</color>";
+        public override string Title => "Freeze<color=blue>Monke</color>";
         public override bool DisplayOnMainMenu => true;
         public bool IsEnabled;
         
